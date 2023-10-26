@@ -26,6 +26,6 @@ public class Regalo {
     }
 
     public String toString(){
-        return descrizione + " " + destinatario;
+        return descrizione + " - " +  destinatario;
     }
 }
