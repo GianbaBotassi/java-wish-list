@@ -1,4 +1,4 @@
-package org.lessons.java;
+package org.lessons.java.listaRegali;
 
 public class Regalo {
     String descrizione;
